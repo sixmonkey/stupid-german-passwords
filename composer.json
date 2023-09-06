@@ -1,0 +1,26 @@
+{
+    "name": "sixmonkey/stupid-german-passwords",
+    "description": "Generate insecure, but funny german passwords",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sixmonkey\\FunnyGermanPasswords\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben Kremer",
+            "email": "hallo@sixmonkey.sh"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "pestphp/pest": "2.x-dev"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
