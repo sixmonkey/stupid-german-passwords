@@ -1,11 +1,11 @@
 {
-    "name": "sixmonkey/stupid-german-passwords",
-    "description": "Generate insecure, but funny german passwords",
+    "name": "sixmonkey/stupid-passwords",
+    "description": "Generate insecure, but funny passwords",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sixmonkey\\FunnyGermanPasswords\\": "src/"
+            "Sixmonkey\\StupidPasswords\\": "src/"
         }
     },
     "authors": [
