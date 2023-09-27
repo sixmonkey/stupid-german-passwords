@@ -20,3 +20,4 @@ echo StupidPassword::generate('de');
 ### Available locales
 * *en*, English (default)
 * *de*, German
+* *it*, Italian
